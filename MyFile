@@ -1,1 +1,11 @@
-My file name is python
+My java Program
+import java.util.*;
+{
+public static void main(String args[])
+{
+int a,b,c;
+System.out.print("Enter the value of a and b");
+c=a+b;
+System.out.print("Addition is:"+c);
+}
+}
